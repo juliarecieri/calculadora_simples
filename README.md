@@ -1,4 +1,4 @@
-# Claculadora simples
+# Calculadora simples
 Projeto criado para a conclusão do primeiro módulo de Phyton do curso de Ciência de Dados da EBAC.
 
 # 🧮 Projeto: Calculadora simples e interativa em Python
